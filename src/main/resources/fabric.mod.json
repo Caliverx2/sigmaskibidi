@@ -8,11 +8,11 @@
 		"lewap"
 	],
 	"contact": {
-		"homepage": "https://lewapnoob.ddns.net",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "http://lewapnoob.ddns.net",
+		"sources": "https://github.com/Caliverx2/sigmaskibidi"
 	},
 	"license": "MIT",
-	"icon": "assets/lewapnoob/icon.png",
+	"icon": "assets/lewapnoob/icon1.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
